@@ -14,4 +14,8 @@ CRUD operations using PostgreSQL
 2. Then configure the postgresql configuration accordingly in the index.js file.
 3. Then run the command node index.js which runs the permalist in localhost:3000.
 
+## Screenshot
+
+<img width="1792" alt="img3" src="https://github.com/Promo-13/Todo-List/assets/160533725/f1adbc8e-7185-4760-bb3c-a9b142584137">
+
 
